@@ -1,6 +1,8 @@
 body{
     background-color: #f3f2ef;
     color: black;
+    font-family: 'Ubuntu';
+    /*font-family: Verdana, Geneva, Tahoma, sans-serif;*/
 }
 
 .container-fluid{
@@ -45,7 +47,8 @@ h2{
 }
 
 article{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Ubuntu';font-size: 18px;
+   
     color: #5b5b5b;
 }
 
@@ -61,7 +64,7 @@ img{
 }
 
 p{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Ubuntu';font-size: 18px;
     color: #5b5b5b;
 }
 .card-footer {
